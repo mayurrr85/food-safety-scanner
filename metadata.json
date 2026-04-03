@@ -1,0 +1,7 @@
+{
+  "name": "Food Safety Scanner",
+  "description": "Detect fungus and spoilage in food images using AI to ensure your meals are safe.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
